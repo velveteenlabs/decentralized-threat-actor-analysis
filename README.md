@@ -106,3 +106,7 @@ It does not attempt to identify or attribute activity to specific individuals.
 
 ---
 # decentralized-threat-actor-analysis
+
+## Related Work  
+- **[Discord Threat Actor Analysis](https://github.com/velveteenlabs/discord-threat-actor-analysis)** - Tactical OSINT investigation methodology applied to specific threat actor behaviors
+- **[Velveteen Hunt Pack](https://github.com/velveteenlabs/velveteen-hunt-pack)** - Technical hunting tools for persistence and C2 detection
